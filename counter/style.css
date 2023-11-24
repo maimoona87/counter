@@ -1,0 +1,65 @@
+body{
+    background-image: url("./medium-beautiful-scenery-31-18-beautiful-scenery-31-anshul-original-imafz3y9f7txyezz.webp");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+   text-align: center;
+   font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+div.transbox {
+    
+    background-color: #ffffff;
+    border: 1px solid black;
+    max-width: 30%;
+    height: 70vh;
+    margin: auto;
+    margin-top: 15vh;
+    border-radius: 10px;
+    box-shadow: 20px 20px 50px 10px pink inset, -20px -20px 50px 10px pink inset;
+    
+
+  }
+  .heading{
+    color: black;
+    opacity: 1;
+    font-weight: bolder;
+    font-size: 60px;
+  
+    
+  }
+  .add{
+    font-size: 50px;
+    padding: 10px 30px;
+    
+    background-color: rgb(48, 0, 130);
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 6px;
+    width: 80%;
+  }
+  .newadd{
+    font-size: 50px;
+    padding: 10px 30px;
+   
+    background-color: rgb(48, 0, 130);
+    opacity: .8;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 6px;
+    width: 80%;
+  }
+  
+  .save{
+    font-size: 50px;
+    padding: 10px 30px;
+    
+    background-color: rgb(43, 130, 69);
+    color: white;
+    border-radius: 10px;
+   
+    width: 80%;
+  }
+  #result{
+    font-size: 30px;
+
+  }
